@@ -1,0 +1,13 @@
+{
+    "name": "renan/schedule",
+    "description": "Pequeno projeto para treinar novas libs do php 7",
+    "license": "GNU General Public License v3.0",
+    "authors": [
+        {
+            "name": "Renan Jochem",
+            "email": "renanjochem98@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
